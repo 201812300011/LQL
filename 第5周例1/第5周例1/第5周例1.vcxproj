@@ -19,7 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{6976DA46-49AA-4F6A-9B59-E33B7AFB7370}</ProjectGuid>
+    <ProjectGuid>{977B833B-4515-456E-BD34-7B4E54CB9CB8}</ProjectGuid>
     <RootNamespace>第5周例1</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
     <Keyword>MFCProj</Keyword>
