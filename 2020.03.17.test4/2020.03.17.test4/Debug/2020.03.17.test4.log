@@ -1,0 +1,4 @@
+﻿  2020.03.17.test4View.cpp
+d:\github_test\myproject\2020.03.17.test4\2020.03.17.test4\2020.03.17.test4view.cpp(99): warning C4101: “flag”: 未引用的局部变量
+  2020.03.17.test4.vcxproj -> D:\GitHub_Test\MyProject\2020.03.17.test4\Debug\2020.03.17.test4.exe
+  2020.03.17.test4.vcxproj -> D:\GitHub_Test\MyProject\2020.03.17.test4\Debug\2020.03.17.test4.pdb (Partial PDB)
