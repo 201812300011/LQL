@@ -1,6 +1,4 @@
-﻿  第6周例1Doc.cpp
-  第6周例1.cpp
-  MainFrm.cpp
-  正在生成代码...
+﻿  第6周例1View.cpp
+d:\github_test\myproject\第6周例1\第6周例1\第6周例1view.cpp(91): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
   第6周例1.vcxproj -> D:\GitHub_Test\MyProject\第6周例1\Debug\第6周例1.exe
   第6周例1.vcxproj -> D:\GitHub_Test\MyProject\第6周例1\Debug\第6周例1.pdb (Partial PDB)

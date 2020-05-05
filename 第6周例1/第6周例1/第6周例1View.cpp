@@ -91,6 +91,10 @@ void C第6周例1View::OnFileOpen()
 	if(r==IDOK);
 	{
 		CString filename = cfd.GetPathName();//将路径赋值给字符串对象
-		dc.TextOutW(200, 300, filename);//输出
+		//dc.TextOutW(200, 300, filename);//输出
+		CImage img;//构造对象
+		img.Load(filename);
+		img.Draw(dc.m_hDC,0,0,img.GetWidth(),img.GetHeight());
+		//dc.m_hDC:设备环境对象；0,0：左上角位置；img.GetWidth()，img.GetHeight()：jpg文件的宽和高
 	}
 }
