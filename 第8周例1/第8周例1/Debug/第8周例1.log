@@ -1,0 +1,40 @@
+﻿  MyDlg.cpp
+d:\github_test\myproject\第8周例1\第8周例1\mydlg.cpp(12): error C2653: “MyDlg”: 不是类或命名空间名称
+d:\github_test\myproject\第8周例1\第8周例1\mydlg.cpp(12): error C2496: “classMyDlg”:“selectany”只能应用到有外部链接的数据项
+d:\github_test\myproject\第8周例1\第8周例1\mydlg.cpp(12): error C2027: 使用了未定义类型“MyDlg”
+  d:\github_test\myproject\第8周例1\第8周例1\mydlg.cpp(12): note: 参见“MyDlg”的声明
+d:\github_test\myproject\第8周例1\第8周例1\mydlg.cpp(12): error C2270: “GetRuntimeClass”: 非成员函数上不允许修饰符
+d:\github_test\myproject\第8周例1\第8周例1\mydlg.cpp(14): error C2027: 使用了未定义类型“MyDlg”
+  d:\github_test\myproject\第8周例1\第8周例1\mydlg.cpp(12): note: 参见“MyDlg”的声明
+d:\github_test\myproject\第8周例1\第8周例1\mydlg.cpp(14): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+d:\github_test\myproject\第8周例1\第8周例1\mydlg.cpp(14): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+d:\github_test\myproject\第8周例1\第8周例1\mydlg.cpp(14): error C2079: “CWnd”使用未定义的 class“MyDlg”
+d:\github_test\myproject\第8周例1\第8周例1\mydlg.cpp(14): error C2059: 语法错误:“)”
+d:\github_test\myproject\第8周例1\第8周例1\mydlg.cpp(15): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\github_test\myproject\第8周例1\第8周例1\mydlg.cpp(15): error C2059: 语法错误:“:”
+d:\github_test\myproject\第8周例1\第8周例1\mydlg.cpp(15): error C2059: 语法错误:“常量”
+d:\github_test\myproject\第8周例1\第8周例1\mydlg.cpp(16): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+d:\github_test\myproject\第8周例1\第8周例1\mydlg.cpp(16): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+d:\github_test\myproject\第8周例1\第8周例1\mydlg.cpp(20): error C2027: 使用了未定义类型“MyDlg”
+  d:\github_test\myproject\第8周例1\第8周例1\mydlg.cpp(12): note: 参见“MyDlg”的声明
+d:\github_test\myproject\第8周例1\第8周例1\mydlg.cpp(20): error C2059: 语法错误:“)”
+d:\github_test\myproject\第8周例1\第8周例1\mydlg.cpp(21): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+d:\github_test\myproject\第8周例1\第8周例1\mydlg.cpp(21): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+d:\github_test\myproject\第8周例1\第8周例1\mydlg.cpp(24): error C2027: 使用了未定义类型“MyDlg”
+  d:\github_test\myproject\第8周例1\第8周例1\mydlg.cpp(12): note: 参见“MyDlg”的声明
+d:\github_test\myproject\第8周例1\第8周例1\mydlg.cpp(26): error C2248: “CWnd::DoDataExchange”: 无法访问 protected 成员(在“CWnd”类中声明)
+  c:\program files (x86)\vc\atlmfc\include\afxwin.h(2914): note: 参见“CWnd::DoDataExchange”的声明
+  c:\program files (x86)\vc\atlmfc\include\afxwin.h(2176): note: 参见“CWnd”的声明
+d:\github_test\myproject\第8周例1\第8周例1\mydlg.cpp(26): error C2352: “CWnd::DoDataExchange”: 非静态成员函数的非法调用
+  c:\program files (x86)\vc\atlmfc\include\afxwin.h(2914): note: 参见“CWnd::DoDataExchange”的声明
+d:\github_test\myproject\第8周例1\第8周例1\mydlg.cpp(30): error C2027: 使用了未定义类型“MyDlg”
+  d:\github_test\myproject\第8周例1\第8周例1\mydlg.cpp(12): note: 参见“MyDlg”的声明
+d:\github_test\myproject\第8周例1\第8周例1\mydlg.cpp(30): error C2270: “GetMessageMap”: 非成员函数上不允许修饰符
+d:\github_test\myproject\第8周例1\第8周例1\mydlg.cpp(30): error C3861: “GetThisMessageMap”: 找不到标识符
+d:\github_test\myproject\第8周例1\第8周例1\mydlg.cpp(31): error C2248: “CDialogEx::GetThisMessageMap”: 无法访问 protected 成员(在“CDialogEx”类中声明)
+  c:\program files (x86)\vc\atlmfc\include\afxdialogex.h(86): note: 参见“CDialogEx::GetThisMessageMap”的声明
+  c:\program files (x86)\vc\atlmfc\include\afxdialogex.h(27): note: 参见“CDialogEx”的声明
+  正在生成代码...
+  正在跳过...(未检测到相关更改)
+  第8周例1Dlg.cpp
+  第8周例1.cpp
